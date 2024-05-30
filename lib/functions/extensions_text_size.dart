@@ -1,0 +1,3 @@
+extension NexTextSize on num {
+
+}
